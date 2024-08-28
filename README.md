@@ -41,5 +41,6 @@ streamlit run app.py
 
 ## Links Uteis
 
-[Instalação Pyenv, Pipx e Poetry com meu xará](https://www.youtube.com/watch?v=9LYqtLuD7z4)
-[Documentação Pydeck](https://deckgl.readthedocs.io/en/latest/)
+- [Instalação Pyenv, Pipx e Poetry com meu xará](https://www.youtube.com/watch?v=9LYqtLuD7z4)
+- [Documentação Pydeck](https://deckgl.readthedocs.io/en/latest/)
+- [Link para adquirir o curso com desconto](https://pay.kiwify.com.br/QoAiIte?coupon=LUCIANOBORBA)
