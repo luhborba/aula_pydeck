@@ -1,0 +1,52 @@
+[
+    {
+        "coordinates": [-46.633308, -23.550520],
+        "incidents": 10,
+        "region": "São Paulo"
+    },
+    {
+        "coordinates": [-43.172897, -22.906847],
+        "incidents": 15,
+        "region": "Rio de Janeiro"
+    },
+    {
+        "coordinates": [-51.92528, -14.235004],
+        "incidents": 5,
+        "region": "Centro-Oeste"
+    },
+    {
+        "coordinates": [-38.527, -12.9714],
+        "incidents": 8,
+        "region": "Salvador"
+    },
+    {
+        "coordinates": [-48.6299, -27.5954],
+        "incidents": 7,
+        "region": "Florianópolis"
+    },
+    {
+        "coordinates": [-60.0217, -3.1190],
+        "incidents": 6,
+        "region": "Manaus"
+    },
+    {
+        "coordinates": [-34.8813, -8.0476],
+        "incidents": 12,
+        "region": "Recife"
+    },
+    {
+        "coordinates": [-35.2081, -5.7945],
+        "incidents": 4,
+        "region": "Natal"
+    },
+    {
+        "coordinates": [-38.5014, -3.71722],
+        "incidents": 9,
+        "region": "Fortaleza"
+    },
+    {
+        "coordinates": [-54.5881, -20.4697],
+        "incidents": 3,
+        "region": "Campo Grande"
+    }
+]
